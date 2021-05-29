@@ -1,2 +1,2 @@
-# First-Repository
-Internshala fantasy desktop application based on Qt Designer
+# Cricket-Fantasy-Game
+Internshala fantasy desktop application based on Qt Designer using Python.
